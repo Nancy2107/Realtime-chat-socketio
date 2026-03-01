@@ -122,7 +122,7 @@ Open the link in multiple browser tabs to test realtime messaging.
 - In-memory user management using Map
 - Auto-restart using Nodemon
 
-- ## 🧠 Key Concepts Practiced
+## 🧠 Key Concepts Practiced
 
 - Difference between server-side and client-side execution
 - WebSocket lifecycle and persistent connections
